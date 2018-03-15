@@ -1,0 +1,73 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "ZEnergy",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "Greetings"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "exec team?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "g'day",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "good day",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "how you doing?",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "wassup",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "what is our exec team?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "who is on the exec team?",
+      "intent": "None",
+      "entities": []
+    }
+  ]
+}
