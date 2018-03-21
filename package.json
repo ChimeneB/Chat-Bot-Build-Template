@@ -1,5 +1,5 @@
 {
-  "name": "zbot",
+  "name": "Chat Bot Demo",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ovishesh/zenergy.git"
+    "url": "git+https://github.com/ChimeneB/Chat-Bot-Build-Template.git"
   },
   "author": "Vishesh Oberoi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ovishesh/zenergy/issues"
+    "url": "https://github.com/ChimeneB/Chat-Bot-Build-Template/issues"
   },
-  "homepage": "https://github.com/ovishesh/zenergy#readme",
+  "homepage": "https://github.com/ChimeneB/Chat-Bot-Build-Template#readme",
   "dependencies": {
     "botbuilder": "^3.14.0",
     "botbuilder-cognitiveservices": "^1.1.0",
