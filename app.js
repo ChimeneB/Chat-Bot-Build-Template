@@ -65,7 +65,7 @@ intents.onDefault([
 
 function createHeroCard(session) {
     return new builder.HeroCard(session)
-        .title('Z Energy Bot')
+        .title('Demo Chat Bot')
         .subtitle('Your friendly neighbourhood bot')
         .text('Build and connect intelligent bots to interact with your users naturally wherever they are, from text/sms to Skype, Slack, Office 365 mail and other popular services.')
         .images([
