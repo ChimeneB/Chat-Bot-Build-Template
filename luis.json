@@ -1,7 +1,7 @@
 {
   "luis_schema_version": "2.1.0",
   "versionId": "0.1",
-  "name": "ZEnergy",
+  "name": "ChatBotDemo",
   "desc": "",
   "culture": "en-us",
   "intents": [
@@ -19,11 +19,6 @@
   "model_features": [],
   "regex_features": [],
   "utterances": [
-    {
-      "text": "exec team?",
-      "intent": "None",
-      "entities": []
-    },
     {
       "text": "g'day",
       "intent": "Greetings",
@@ -57,16 +52,6 @@
     {
       "text": "wassup",
       "intent": "Greetings",
-      "entities": []
-    },
-    {
-      "text": "what is our exec team?",
-      "intent": "None",
-      "entities": []
-    },
-    {
-      "text": "who is on the exec team?",
-      "intent": "None",
       "entities": []
     }
   ]
